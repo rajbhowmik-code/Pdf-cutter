@@ -1,0 +1,6 @@
+open spiltter.py 
+change the pdf name and page count
+what pdf name you want change
+save
+clear path name in folder write cmd opem
+py splitter.py 
